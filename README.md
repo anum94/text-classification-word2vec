@@ -2,9 +2,8 @@
 
 ###Worked On the Project:
 
-KAMIL ORUJZADE, 03693533
-
-ANUM AFZAL, 03696046
+ANUM AFZAL
+KAMIL ORUJZADE
 
 ## Description of the Problem and Approaches
 
