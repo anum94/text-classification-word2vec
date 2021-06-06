@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/korujzade/Documents/tum_modules/dl4nlp/NLP-spooky_author/DNN_model/model.tflearn"
+all_model_checkpoint_paths: "/Users/korujzade/Documents/tum_modules/dl4nlp/NLP-spooky_author/DNN_model/model.tflearn"
